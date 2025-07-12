@@ -1,2 +1,3 @@
-# Primeiro teste
-Primeiro teste para subir um repositório no git
+# Primeiros testes
+Primeiros testes para subir repositórios no GitHub
+primeira alteração feita no README
